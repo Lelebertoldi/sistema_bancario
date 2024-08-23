@@ -1,2 +1,2 @@
-# sistema bancario com POO
+# sistema bancario
 Projeto do curso DIO
